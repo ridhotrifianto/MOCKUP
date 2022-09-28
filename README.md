@@ -35,7 +35,7 @@ Get more familiarized with react-native and various Libs used in react-native pr
 # Figma Layout and 'SignIn' interface
 
 <h1 align="center">
-    <img src="https://ik.imagekit.io/cnbmdh4b9w/GamePlayFigma_n37WowQc7.png?updatedAt=1626991756128">
+    <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FSveCira6ocpShPnZKTaKeF%2FMOCK-UP-%2526-WIDGET-CORE-COMPONENT%3Fnode-id%3D1%253A3%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A2" allowfullscreen></iframe>
 </h1>
 
 
